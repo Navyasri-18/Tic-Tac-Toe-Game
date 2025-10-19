@@ -45,7 +45,9 @@ and modern **async/await** logic for a smooth gaming experience.
 💾 **Local Storage** – Save scores even after page refresh<br>
 🌈 **Theme Toggle** – Add dark/light mode for better user experience<br>
 
-
+## 🌐 Live Demo
+🎯 **Play the Game Here:**  
+👉 [Tic-Tac-Toe Game on GitHub Pages](https://navyasri-18.github.io/Tic-Tac-Toe-Game/)
 ## 💡 How to Run Locally
 
 ```bash

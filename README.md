@@ -1,20 +1,22 @@
-## 🎮 Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
-A fun, interactive, and responsive **Tic-Tac-Toe** web game built using **HTML**, **CSS**, and **JavaScript**.
-The project demonstrates clean logic, intuitive design, and asynchronous gameplay control using **async/await** for smooth performance.
+A fun, interactive, and responsive Tic-Tac-Toe web game built using HTML, CSS, and JavaScript. The project demonstrates clean logic, intuitive design, and asynchronous gameplay control using async/await for smooth performance.
 
-This version also includes two special features — a **Score Tracker** that maintains wins for both players until refresh, and a **Restart Button** for quick replays.
+This version also includes two special features — a Score Tracker that maintains wins for both players until refresh, and a Restart Button for quick replays.
 
----
+--- 
+
 
 ## 🧩 Description
 
-The Tic-Tac-Toe Game allows two players (“X” and “O”) to compete in a classic 3×3 grid.
-After each move, the game automatically checks for a winner or a draw, updates scores dynamically, and resets the board when needed — all without reloading the page.
+The **Tic-Tac-Toe Game** allows two players (“X” and “O”) to compete in a classic 3×3 grid.
+After each move, the game automatically checks for a winner or a draw, updates scores dynamically,
+and resets the board when needed — all without reloading the page.
 
-This project demonstrates clean JavaScript event handling, dynamic DOM updates, and modern async logic for a smooth gaming experience.
+This project demonstrates clean **JavaScript event handling**, **dynamic DOM updates**,
+and modern **async/await** logic for a smooth gaming experience.
 
-
+---
 
 ## 🚀 Features
 
@@ -27,6 +29,7 @@ This project demonstrates clean JavaScript event handling, dynamic DOM updates, 
 🎨 **Responsive UI** – Scales seamlessly on desktop and mobile
 💬 **Clean Design** – Simple, minimalistic layout with smooth transitions
 
+---
 
 ## ⚙️ Tech Stack
 
@@ -34,13 +37,13 @@ This project demonstrates clean JavaScript event handling, dynamic DOM updates, 
 **Logic Handling:** Async/Await for sequential function execution
 **Version Control:** Git & GitHub
 
+---
 
 ## 🖼️ Screenshot
 
-```markdown
-![Tic Tac Toe Game Screenshot](Tic-Tac-Toe.png)
-```
+`![Tic Tac Toe Game Screenshot](Projects/Tic-Tac-Toe.png)`
 
+---
 
 ## 🌟 Future Enhancements
 
@@ -49,6 +52,7 @@ This project demonstrates clean JavaScript event handling, dynamic DOM updates, 
 💾 **Local Storage** – Save scores even after page refresh
 🌈 **Theme Toggle** – Add dark/light mode for better user experience
 
+---
 
 ## 💡 How to Run Locally
 
@@ -59,3 +63,6 @@ start index.html
 ```
 
 Then simply open the game in your browser and start playing! 🎮
+
+
+

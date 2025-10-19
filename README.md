@@ -1,12 +1,5 @@
 # 🎮 Tic-Tac-Toe Game
 
-A fun, interactive, and responsive Tic-Tac-Toe web game built using HTML, CSS, and JavaScript. The project demonstrates clean logic, intuitive design, and asynchronous gameplay control using async/await for smooth performance.
-
-This version also includes two special features — a Score Tracker that maintains wins for both players until refresh, and a Restart Button for quick replays.
-
---- 
-
-
 ## 🧩 Description
 
 The **Tic-Tac-Toe Game** allows two players (“X” and “O”) to compete in a classic 3×3 grid.
@@ -41,7 +34,7 @@ and modern **async/await** logic for a smooth gaming experience.
 
 ## 🖼️ Screenshot
 
-`![Tic Tac Toe Game Screenshot](Projects/Tic-Tac-Toe.png)`
+![Tic Tac Toe Game Screenshot](Tic-Tac-Toe.png)
 
 ---
 
@@ -63,6 +56,4 @@ start index.html
 ```
 
 Then simply open the game in your browser and start playing! 🎮
-
-
 

@@ -14,7 +14,7 @@ After each move, the game automatically checks for a winner or a draw, updates s
 
 This project demonstrates clean JavaScript event handling, dynamic DOM updates, and modern async logic for a smooth gaming experience.
 
----
+
 
 ## 🚀 Features
 
@@ -27,15 +27,12 @@ This project demonstrates clean JavaScript event handling, dynamic DOM updates, 
 🎨 **Responsive UI** – Scales seamlessly on desktop and mobile
 💬 **Clean Design** – Simple, minimalistic layout with smooth transitions
 
----
 
 ## ⚙️ Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript (ES6)
 **Logic Handling:** Async/Await for sequential function execution
 **Version Control:** Git & GitHub
-
----
 
 
 ## 🖼️ Screenshot
@@ -44,8 +41,6 @@ This project demonstrates clean JavaScript event handling, dynamic DOM updates, 
 ![Tic Tac Toe Game Screenshot](Tic-Tac-Toe.png)
 ```
 
----
-
 
 ## 🌟 Future Enhancements
 
@@ -53,8 +48,6 @@ This project demonstrates clean JavaScript event handling, dynamic DOM updates, 
 🎵 **Sound Effects** – Add sound feedback for moves and wins
 💾 **Local Storage** – Save scores even after page refresh
 🌈 **Theme Toggle** – Add dark/light mode for better user experience
-
----
 
 
 ## 💡 How to Run Locally
@@ -66,5 +59,3 @@ start index.html
 ```
 
 Then simply open the game in your browser and start playing! 🎮
-
----

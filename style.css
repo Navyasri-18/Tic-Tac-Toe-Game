@@ -3,7 +3,9 @@
     padding: 0;
 }
 .title {
-    padding: 5px 0px 5px 0px;
+    margin: 5px 5px 0px 5px;
+    padding: 10px 0px 15px 0px;
+    font-size: larger;
 }
 body {
     text-align: center;
@@ -11,18 +13,18 @@ body {
 .scoreboard {
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  gap: 4rem;
 }
 
 .score {
-  border: 1px solid #84a98c;
+  border: 1.5px solid #84a98c;
   border-radius: 5px;
-  padding: 5px 8px;
-  font-size: 1rem;
+  padding: 10px 30px;
+  font-size: 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 50px;
+  width: 70px;
   background-color: #fff;
   color: #354f52;
   box-shadow: 0 0 5px rgba(132, 169, 140, 0.5);
@@ -48,17 +50,21 @@ body {
     border: none;
     background-color: #84a98c;
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
-    font-size: 3rem;
+    font-size: 4.5rem;
 }
 #restart{
-    margin: 10px;
-    padding: 5px;
-    border: 1px solid #354f52;
-    font-size: 0.7rem;
+    margin: 15px;
+    padding: 10px 15px;
+    border: 2px solid #354f52;
+    font-size: 1.2rem;
 }
 .msg-container{
     padding: 0px 0px 10px 0px;
 }
 .hide {
     display: none;
+}
+#msg {
+    font-size: 2rem;
+    margin: 5px;
 }
